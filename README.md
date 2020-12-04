@@ -11,7 +11,7 @@
 
 TikTok Checker
 =================
-[![PyPI](https://img.shields.io/pypi/v/instagram-scraper.svg)](https://pypi.python.org/pypi/instagram-scraper) [![Build Status](https://travis-ci.org/rarcega/instagram-scraper.svg?branch=master)](https://travis-ci.org/rarcega/instagram-scraper)
+[![PyPI](https://img.shields.io/pypi/v/instagram-scraper.svg)](https://pypi.python.org/pypi/instagram-scraper)
 
 TikTok Checker is an app written in Python that checks usernames available for TikTok
 
