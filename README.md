@@ -22,7 +22,7 @@ Usage of info-instagram for attacking targets without prior mutual consent is il
 يعد استخدام  لمهاجمة الأهداف دون موافقة متبادلة مسبقة غير قانوني. تقع على عاتق المستخدم النهائي مسؤولية الامتثال لجميع القوانين المحلية والولائية والفدرالية المعمول بها. لا يتحمل المطورون أي مسؤولية وليسوا مسؤولين عن أي سوء استخدام أو ضرر ناتج عن هذا البرنامج
 
 
-<img src="https://www.up-00.com/i/00198/yuwsqpjewmji.spng">
+<img src="https://www.up-00.com/i/00198/yuwsqpjewmji.png">
 
 Or suggested names are available
 ================= 
