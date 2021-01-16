@@ -34,8 +34,15 @@ Or suggested names are available
       3- Press F12, then Application, then Cookies
       4- Copy the session ID, then go to the tool and paste it there
       
-      
+ 
+ 
 ![tweet](https://www.up-00.com/i/00198/48h4x8t6u7ns.png)
+
+
+ ## Without the session ID, you will see the closed accounts available
+ 
+ ![tweet](https://a.top4top.io/p_18429lh7y1.png)
+
 
 ### Donate
 - If this project very help you to penetration testing  and u want support me , you can give me a cup of coffee :)
